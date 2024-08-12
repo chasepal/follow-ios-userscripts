@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Enable horizontal scrolling and toggle visibility of first two columns on Follow.is
-// @match        https://follow.is/*
 // @match        https://web.follow.is/*
 // @grant        none
 // @run-at       document-idle
