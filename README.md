@@ -1,6 +1,6 @@
   # Follow.is 移动端增强功能：横向滚动和栏目切换
 
-  这个用户脚本为 [Follow.is](https://follow.is) 和 [web.follow.is](https://web.follow.is) 网站提供了增强功能，启用了横向滚动并添加了切换左边侧栏的按钮。这个脚本特别适合改善在 iOS Safari 上的使用体验，脚本还在非常初期，暂时可用，不过期待大家一起完善。
+  这个用户脚本为 [web.follow.is](https://web.follow.is) 网站提供了增强功能，启用了横向滚动并添加了切换左边侧栏的按钮。这个脚本特别适合改善在 iOS Safari 上的使用体验，脚本还在非常初期，暂时可用，不过期待大家一起完善。
 
   ## 功能
 
@@ -28,7 +28,6 @@
   ## 兼容性
 
   此脚本设计用于：
-  - https://follow.is/*
   - https://web.follow.is/*
 
   它经过专门优化，适用于 iOS Safari，但也应该能在其他现代浏览器上正常工作。
