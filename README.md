@@ -18,7 +18,7 @@
 
   ## 使用方法
 
-  安装完成后，在 Safari 中访问 [Follow.is](https://follow.is) 或 [web.follow.is](https://web.follow.is)。你会注意到：
+  安装完成后，在 Safari 中访问 [web.follow.is](https://web.follow.is)。你会注意到：
 
   - 页面现在支持横向滚动。
   - 左上角出现了一个 "Toggle Columns"（切换栏目）按钮。
